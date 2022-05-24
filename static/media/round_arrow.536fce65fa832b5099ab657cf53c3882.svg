@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.482" height="66.964" viewBox="0 0 96.482 66.964">
+  <g id="Group_65" data-name="Group 65" transform="translate(-2237.578 -7899.036)">
+    <g id="Group_64" data-name="Group 64">
+      <g id="Ellipse_71" data-name="Ellipse 71" transform="translate(2254 7921)" fill="none" stroke="#fff" stroke-width="5">
+        <ellipse cx="23" cy="22.5" rx="23" ry="22.5" stroke="none"/>
+        <ellipse cx="23" cy="22.5" rx="20.5" ry="20" fill="none"/>
+      </g>
+      <path id="Path_15" data-name="Path 15" d="M-.258,2.913C17.3-1.92,33.7-.787,43.531,2.216,50.322,4.289,52.863,11,52.863,11" transform="translate(2238.5 7918.5)" fill="none" stroke="#fff" stroke-width="5"/>
+      <path id="Path_16" data-name="Path 16" d="M57.6-7.488C44.859-2.774,16.6-.787,8.015,2.216A7.771,7.771,0,0,0,2.7,10.177" transform="translate(2258.758 7921.376)" fill="none" stroke="#fff" stroke-width="5"/>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(2328.366 7899.036) rotate(75)" fill="#fff">
+        <path d="M 17.77182006835938 17.5 L 4.228179931640625 17.5 L 11 5.187600135803223 L 17.77182006835938 17.5 Z" stroke="none"/>
+        <path d="M 11 10.37518978118896 L 8.456354141235352 15 L 13.54364585876465 15 L 11 10.37518978118896 M 11 0 L 22 20 L 0 20 L 11 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

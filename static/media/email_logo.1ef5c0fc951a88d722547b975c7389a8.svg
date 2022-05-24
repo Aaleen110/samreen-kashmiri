@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_61" data-name="Group 61" transform="translate(-156 -923)">
+    <g id="Group_18" data-name="Group 18" transform="translate(77 619)">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="60" height="60" rx="13" transform="translate(79 304)" fill="#df4842"/>
+    </g>
+    <path id="mail_FILL0_wght400_GRAD0_opsz48" d="M7,40a2.878,2.878,0,0,1-2.1-.9A2.878,2.878,0,0,1,4,37V11a2.878,2.878,0,0,1,.9-2.1A2.878,2.878,0,0,1,7,8H41a2.878,2.878,0,0,1,2.1.9A2.878,2.878,0,0,1,44,11V37a3.076,3.076,0,0,1-3,3ZM24,24.9,7,13.75V37H41V13.75Zm0-3L40.8,11H7.25ZM7,13.75V37H7Z" transform="translate(162 931)" fill="#fff"/>
+  </g>
+</svg>
