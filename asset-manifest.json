@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samreen-kashmiri/static/css/main.b6d52483.css",
-    "main.js": "/samreen-kashmiri/static/js/main.243c7754.js",
+    "main.js": "/samreen-kashmiri/static/js/main.d2e50ea8.js",
     "static/js/787.9d27700f.chunk.js": "/samreen-kashmiri/static/js/787.9d27700f.chunk.js",
     "static/media/model_4.png": "/samreen-kashmiri/static/media/model_4.46be2d622155196f161d.png",
     "static/media/brush_decor.png": "/samreen-kashmiri/static/media/brush_decor.174d913b7639a8170249.png",
@@ -36,11 +36,11 @@
     "static/media/home_icon.svg": "/samreen-kashmiri/static/media/home_icon.56d70cc75b83a2571582905e8a859338.svg",
     "static/media/rightarrow.svg": "/samreen-kashmiri/static/media/rightarrow.c67522246faa01f407decd8cccba18d8.svg",
     "main.b6d52483.css.map": "/samreen-kashmiri/static/css/main.b6d52483.css.map",
-    "main.243c7754.js.map": "/samreen-kashmiri/static/js/main.243c7754.js.map",
+    "main.d2e50ea8.js.map": "/samreen-kashmiri/static/js/main.d2e50ea8.js.map",
     "787.9d27700f.chunk.js.map": "/samreen-kashmiri/static/js/787.9d27700f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6d52483.css",
-    "static/js/main.243c7754.js"
+    "static/js/main.d2e50ea8.js"
   ]
 }
