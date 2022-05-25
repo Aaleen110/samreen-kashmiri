@@ -52,12 +52,12 @@ function Home() {
 
                 <div style={{ width: '70%', position: 'relative' }}>
                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'absolute', left: 0, zIndex: 1 }}>
-                        <img src={beauty_home} height={350} style={{ alignSelf: 'center', paddingLeft: 6 }} />
+                        <img src={beauty_home} height={330} style={{ alignSelf: 'center', paddingLeft: 6 }} />
                         <div style={{ fontWeight: 'bold', fontSize: 24 }}>Beauty</div>
                     </div>
 
                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'absolute', right: 0, bottom: 0, zIndex: 1, marginRight: 16 }}>
-                        <img src={hairdo_home} height={350} style={{ alignSelf: 'center', paddingLeft: 6 }} />
+                        <img src={hairdo_home} height={330} style={{ alignSelf: 'center', paddingLeft: 6 }} />
                         <div style={{ fontWeight: 'bold', fontSize: 24 }}>Hairdo</div>
                     </div>
                 </div>

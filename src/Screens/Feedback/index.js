@@ -81,7 +81,7 @@ function Feedback() {
 
 
     return (
-        <div style={{ flexDirection: 'row', display: 'column', backgroundColor: "#E8E8EA",  }}>
+        <div style={{ flexDirection: 'row', display: 'column', backgroundColor: "#E8E8EA", paddingTop: 50 }}>
 
             {/* <div style={{ width: '40%', height: '100%', }}> */}
             {/* <img src={services_graphics} style={{ alignSelf: 'center', objectFit: 'cover', height: '100%' }} /> */}
@@ -94,7 +94,7 @@ function Feedback() {
                 <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
                     {reviews.map((review, index) => {
                         return <div>
-                            <div style={{ width: 400, margin: 16, padding: 16, backgroundColor: '#fff', borderRadius: 12, display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'relative' }}>
+                            <div style={{ width: 360, margin: 16, padding: 16, backgroundColor: '#fff', borderRadius: 12, display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'relative' }}>
                                 <img src={brush_mark} style={{ alignSelf: 'center', objectFit: 'cover', height: '100%', paddingRight: 12, position: 'absolute' }} />
                                 <div style={{ color: '#000', padding: 16, fontSize: 22, }}>{review.message}</div>
 

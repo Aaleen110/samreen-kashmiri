@@ -39,7 +39,7 @@ function Contact() {
 
 
     return (
-        <div className="container" style={{ flexDirection: 'row', display: 'column', paddingTop: 20 }}>
+        <div style={{ flexDirection: 'row', display: 'column', paddingTop: 50, backgroundColor:'#E8E8EA' }}>
 
             {/* <div style={{ width: '40%', height: '100%', }}> */}
             {/* <img src={services_graphics} style={{ alignSelf: 'center', objectFit: 'cover', height: '100%' }} /> */}
@@ -53,8 +53,8 @@ function Contact() {
 
 
                     <div style={{ width: '50%', height: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center', }}>
-                        <div style={{ width: '80%', backgroundColor: '#fff', borderRadius: 8, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                            <div style={{ fontSize: 30, padding: 16, paddingLeft: 60, width: '100%', textAlign: 'flex-start', fontWeight: '600', color: '#020000', lineHeight: 0.9 }}>Enquire Now</div>
+                        <div style={{ marginTop:20, width: '80%', backgroundColor: '#fff', borderRadius: 8, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                            <div style={{ fontSize: 30, padding: 16, paddingLeft: 60,  width: '100%', textAlign: 'flex-start', fontWeight: '600', color: '#020000', lineHeight: 0.9 }}>Enquire Now</div>
                             <input placeholder='Enter Name' style={{ backgroundColor: '#F5F5F9', border: 0, width: '90%', height: 40, fontSize: 18 }}></input>
 
                             <div style={{ display: 'flex', flexDirection: 'row', width: '100%', justifyContent: 'space-around', marginTop: 20 }}>
@@ -82,7 +82,7 @@ function Contact() {
 
                 </div>
 
-                <div style={{ backgroundColor: '#fff', height: 200, paddingLeft: 16, width: '90%', display: 'flex', alignSelf: 'flex-end', justifyContent: 'flex-end', alignItems: 'center', borderTopLeftRadius: 50, paddingRight: 20, position: 'relative' }}>
+                <div style={{ backgroundColor: '#fff', height: 100, paddingLeft: 16, width: '90%', display: 'flex', alignSelf: 'flex-end', justifyContent: 'flex-end', alignItems: 'center', borderTopLeftRadius: 50, paddingRight: 20, marginTop: 60, position: 'relative' }}>
 
                     <div style={{ height: 70, width: 300, position: 'absolute', left: 0, marginLeft: 20, display: 'flex', flexDirection: 'row' }}>
                         {/* <a href="mailto:aaleenmirza110@gmail.com">Email Us</a> */}
