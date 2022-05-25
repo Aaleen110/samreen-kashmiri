@@ -1,6 +1,6 @@
 // import designelement from '../../Assets/svgs/design-element-home.svg';
 // import designhome from '../../Assets/svgs/design-home.svg';
-import services_graphics from '../../Assets/svgs/services_graphics.svg';
+// import services_graphics from '../../Assets/svgs/services_graphics.svg';
 
 import pocket_friendly_icon from '../../Assets/svgs/pocket_friendly_icon.svg';
 import heart_icon from '../../Assets/svgs/heart_icon.svg';
@@ -14,20 +14,20 @@ import Colors from '../../Utils/Colors'
 import '../../App.css';
 
 
-import model_1 from '../../Assets/svgs/gallery/model_1.svg';
-import model_2 from '../../Assets/svgs/gallery/model_2.svg';
-import model_3 from '../../Assets/svgs/gallery/model_3.svg';
-import model_4 from '../../Assets/svgs/gallery/model_4.svg';
-import model_5 from '../../Assets/svgs/gallery/model_5.svg';
-import model_6 from '../../Assets/svgs/gallery/model_6.svg';
-import model_7 from '../../Assets/svgs/gallery/model_7.svg';
-import model_8 from '../../Assets/svgs/gallery/model_8.svg';
-import model_9 from '../../Assets/svgs/gallery/model_9.svg';
-import model_10 from '../../Assets/svgs/gallery/model_10.svg';
-import model_11 from '../../Assets/svgs/gallery/model_11.svg';
-import model_12 from '../../Assets/svgs/gallery/model_12.svg';
-import model_13 from '../../Assets/svgs/gallery/model_13.svg';
-import model_14 from '../../Assets/svgs/gallery/model_14.svg';
+import model_1 from '../../Assets/pngs/gallery/model_1.png';
+import model_2 from '../../Assets/pngs/gallery/model_2.png';
+import model_3 from '../../Assets/pngs/gallery/model_3.png';
+import model_4 from '../../Assets/pngs/gallery/model_4.png';
+import model_5 from '../../Assets/pngs/gallery/model_5.png';
+import model_6 from '../../Assets/pngs/gallery/model_6.png';
+import model_7 from '../../Assets/pngs/gallery/model_7.png';
+import model_8 from '../../Assets/pngs/gallery/model_8.png';
+import model_9 from '../../Assets/pngs/gallery/model_9.png';
+import model_10 from '../../Assets/pngs/gallery/model_10.png';
+import model_11 from '../../Assets/pngs/gallery/model_11.png';
+import model_12 from '../../Assets/pngs/gallery/model_12.png';
+import model_13 from '../../Assets/pngs/gallery/model_13.png';
+import model_14 from '../../Assets/pngs/gallery/model_14.png';
 
 
 const assets = [{ link: model_1, size: 300 }, { link: model_2, size: 300 }, { link: model_3, size: 300 }, { link: model_4, size: 300 },

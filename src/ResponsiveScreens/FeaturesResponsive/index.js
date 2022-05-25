@@ -1,12 +1,12 @@
 // import designelement from '../../Assets/svgs/design-element-home.svg';
 // import designhome from '../../Assets/svgs/design-home.svg';
-import services_graphics from '../../Assets/svgs/services_graphics.svg';
+// import services_graphics from '../../Assets/svgs/services_graphics.svg';
 
 import pocket_friendly_icon from '../../Assets/svgs/pocket_friendly_icon.svg';
 import heart_icon from '../../Assets/svgs/heart_icon.svg';
 import home_icon from '../../Assets/svgs/home_icon.svg';
 
-import brushes from '../../Assets/svgs/brushes.svg';
+import brushes from '../../Assets/pngs/brushes.png';
 
 
 import Colors from '../../Utils/Colors'

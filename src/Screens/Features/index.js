@@ -1,6 +1,7 @@
 // import designelement from '../../Assets/svgs/design-element-home.svg';
 // import designhome from '../../Assets/svgs/design-home.svg';
-import services_graphics from '../../Assets/svgs/services_graphics.svg';
+// import services_graphics from '../../Assets/svgs/services_graphics.svg';
+import brush_decor from '../../Assets/pngs/brush_decor.png'
 
 import pocket_friendly_icon from '../../Assets/svgs/pocket_friendly_icon.svg';
 import heart_icon from '../../Assets/svgs/heart_icon.svg';
@@ -18,7 +19,7 @@ function Features() {
         <div className="container" style={{ flexDirection: 'row', display: 'flex' }}>
 
             <div style={{ width: '40%', height: '100%', }}>
-                <img src={services_graphics} style={{ alignSelf: 'center', objectFit: 'cover', height: '100%' }} />
+                <img src={brush_decor} style={{ alignSelf: 'center', objectFit: 'cover', height: '100%' }} />
             </div>
 
             <div style={{ width: '60%', height: '100%', display: 'flex', flexDirection: 'column' }}>

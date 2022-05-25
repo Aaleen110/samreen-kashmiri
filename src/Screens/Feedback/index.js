@@ -1,6 +1,6 @@
 // import designelement from '../../Assets/svgs/design-element-home.svg';
 // import designhome from '../../Assets/svgs/design-home.svg';
-import services_graphics from '../../Assets/svgs/services_graphics.svg';
+// import services_graphics from '../../Assets/svgs/services_graphics.svg';
 
 import pocket_friendly_icon from '../../Assets/svgs/pocket_friendly_icon.svg';
 import heart_icon from '../../Assets/svgs/heart_icon.svg';
